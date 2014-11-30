@@ -30,3 +30,5 @@ node_modules
 .idea
 .tmp
 bower_components
+
+example/crudact.js
